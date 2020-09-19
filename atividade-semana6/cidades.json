@@ -1,0 +1,53 @@
+[
+    {
+        "cidade": "Cidaudela de Macchu Picchu",
+        "pontoTuristico": "Macchu Picchu",
+        "pais": "Peru"
+    },
+    {
+        "cidade": "Andes, sudoeste da Bolívia",
+        "pontoTuristico": "Solar de Uyuni",
+        "pais": "Bolívia"
+    },
+    {
+        "cidade": "Tierra del Fuego",
+        "pontoTuristico": "Ushuaia",
+        "pais": "Argentina"
+    },
+    {
+        "cidade": "Recife",
+        "pontoTuristico": "Marco Zero, Porto de Galinhas, Praia de Tamandaré, Alto da Sé, Parque de Esculturas de Brennand, Torre Malakoff, Cachoeiras de Bonito",
+        "pais": "Brasil"
+    },
+    {
+        "cidade": "Vitacura",
+        "pontoTuristico": "Valle Nevado",
+        "pais": "Chile"
+    },
+    {
+        "cidade": "Asunción",
+        "pontoTuristico": "Centro Historico de Asunción",
+        "pais": "Paraguai"
+    },
+    {
+        "cidade": "Cairo",
+        "pontoTuristico": "Pirâmides de Gizé",
+        "pais": "Egito"
+    },
+    {
+        "cidade": "Menabe",
+        "pontoTuristico": "Avenida dos Baobás",
+        "pais": "Madagascar"
+    },
+    {
+        "cidade": "Mpumalanga e Limpopo",
+        "pontoTuristico": "Parque Nacional Kruger",
+        "pais": "África do Sul"
+    },
+    {
+        "cidade": "Malanje",
+        "pontoTuristico": "Quedas de Calandula",
+        "pais": "Angola"
+    }
+    
+]

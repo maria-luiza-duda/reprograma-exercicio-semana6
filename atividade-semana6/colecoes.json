@@ -1,0 +1,52 @@
+[
+    {
+        "conteudoDeColecao": "Dentes de leite",
+        "anoDeInicio": 2005 ,
+        "aindaExiste": true
+    },
+    {
+        "conteudoDeColecao": "Caixinhas de Chiclets",
+        "anoDeInicio": 2012 ,
+        "aindaExiste": false
+    },
+    {
+        "conteudoDeColecao": "Escovas de dentes",
+        "anoDeInicio": 2001 ,
+        "aindaExiste": true
+    },
+    {
+        "conteudoDeColecao": "Canecas",
+        "anoDeInicio": 2015 ,
+        "aindaExiste": true
+    },
+    {
+        "conteudoDeColecao": "Soldadinhos de papel",
+        "anoDeInicio": 2010 ,
+        "aindaExiste": false
+    },
+    {
+        "conteudoDeColecao": "Gravatinhas de Billy Jean",
+        "anoDeInicio": 2011 ,
+        "aindaExiste": false
+    },
+    {
+        "conteudoDeColecao": "Areias de Praias",
+        "anoDeInicio": 2018 ,
+        "aindaExiste": true
+    },
+    {
+        "conteudoDeColecao": "Pedras",
+        "anoDeInicio": 2018 ,
+        "aindaExiste": true
+    },
+    {
+        "conteudoDeColecao": "Album de figurinhas e figurinhas",
+        "anoDeInicio": 2006 ,
+        "aindaExiste": false
+    },
+    {
+        "conteudoDeColecao": "Garrafinhas em miniatura da Coca Cola",
+        "anoDeInicio": 2006 ,
+        "aindaExiste": false
+    }
+]

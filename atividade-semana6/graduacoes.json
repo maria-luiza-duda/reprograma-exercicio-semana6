@@ -1,0 +1,53 @@
+[
+    {
+        "curso": "Arqueologia",
+        "disciplinas": "Antropologia, Restauração",
+        "periodos": 8
+    },
+    {
+        "curso": "Ciências Biológicas",
+        "disciplinas": "Zoologia, Botânica",
+        "periodos": 8
+    },
+    {
+        "curso": "Expressão gráfica",
+        "disciplinas": "Modelagem 3D, Desenho técnico",
+        "periodos": 8
+    },
+    {
+        "curso": "Oceanografia",
+        "disciplinas": "Oceanografia física, Oceanografia geológica",
+        "periodos": 10
+    },
+    {
+        "curso": "Arquitetura e Urbanismo",
+        "disciplinas": "Desenho arquitetônico, Maquete",
+        "periodos": 10
+    },
+    {
+        "curso": "Museologia",
+        "disciplinas": "Teoria museológica, Etnomuseologia",
+        "periodos": 7
+    },
+    {
+        "curso": "Sistemas da informação",
+        "disciplinas": "Programação 1, Algoritmos e estruturas de daos",
+        "periodos": 8
+    },
+    {
+        "curso": "Geologia",
+        "disciplinas": "Mineralogia, Geomorfologia",
+        "periodos": 8
+    },
+    {
+        "curso": "Música",
+        "disciplinas": "Harmonia, Percepção musical",
+        "periodos": 8
+    },
+    {
+        "curso": "Geografia",
+        "disciplinas": "Climatologia, Petrografia",
+        "periodos": 8
+    }
+
+]

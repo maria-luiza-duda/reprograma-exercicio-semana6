@@ -1,0 +1,52 @@
+[
+    {
+        "disciplina": "Biologia celular",
+        "periodo": 1,
+        "avaliacao": "Provas"
+    },
+    {
+        "disciplina": "Diversidade de plantas sem sementes",
+        "periodo": 3,
+        "avaliacao": "Provas, folders e atividades"
+    },
+    {
+        "disciplina": "Ecologia 1",
+        "periodo": 5,
+        "avaliacao": "Provas e atividades"
+    },
+    {
+        "disciplina": "Ecologia 2",
+        "periodo": 6,
+        "avaliacao": "Maquetes, mapas conceituais, provas e atividades"
+    },
+    {
+        "disciplina": "Invertebrados 1",
+        "periodo": 1,
+        "avaliacao": "Provas"
+    },
+    {
+        "disciplina": "Invertebrados 2",
+        "periodo": 2,
+        "avaliacao": "Provas e seminario"
+    },
+    {
+        "disciplina": "Paleontologia",
+        "periodo": 7,
+        "avaliacao": "Atiividades e seminário"
+    },
+    {
+        "disciplina": "Anatomia 2",
+        "periodo": 6,
+        "avaliacao": "Provas práticas e teóricas, elaboração de material didático, seminários"
+    },
+    {
+        "disciplina": "Embriologia",
+        "periodo": 2,
+        "avaliacao": "Provas e seminários"
+    },
+    {
+        "disciplina": "Evolução",
+        "periodo": 8,
+        "avaliacao": "Provas e seminário"
+    }
+]

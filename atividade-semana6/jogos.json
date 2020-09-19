@@ -1,0 +1,52 @@
+[
+    {
+        "nomeDoJogo": "DD-Tank",
+        "categoriaJogo": "Multiplayer",
+        "aindaJogo": false
+    },
+    {
+        "nomeDoJogo": "Uphill Rush",
+        "categoriaJogo": "Motos",
+        "aindaJogo": false
+    },
+    {
+        "nomeDoJogo": "Transformice",
+        "categoriaJogo": "Multiplayer",
+        "aindaJogo": false
+    },
+    {
+        "nomeDoJogo": "Street Fight",
+        "categoriaJogo": "Multiplayer, Luta",
+        "aindaJogo": true
+    },
+    {
+        "nomeDoJogo": "Habbo",
+        "categoriaJogo": "Multiplayer",
+        "aindaJogo": true
+    },
+    {
+        "nomeDoJogo": "Agar.io",
+        "categoriaJogo": "Multiplayer",
+        "aindaJogo": false
+    },
+    {
+        "nomeDoJogo": "Gartic",
+        "categoriaJogo": "Multiplayer",
+        "aindaJogo": true
+    },
+    {
+        "nomeDoJogo": "Ninja",
+        "categoriaJogo": "Luta",
+        "aindaJogo": false
+    },
+    {
+        "nomeDoJogo": "Papa's hamburgueria",
+        "categoriaJogo": "Simulação",
+        "aindaJogo": false
+    },
+    {
+        "nomeDoJogo": "Minecraft",
+        "categoriaJogo": "Multiplayer",
+        "aindaJogo": true
+    }
+]

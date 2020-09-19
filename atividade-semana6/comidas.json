@@ -1,0 +1,52 @@
+[
+    {
+        "comidaOuBebida": "ceviche",
+        "sabor": "amargo",
+        "pais": "Peru"
+    },
+    {
+        "comidaOuBebida": "Arepa",
+        "sabor": "salgado",
+        "pais": "Colombia"
+    },
+    {
+        "comidaOuBebida": "Sopa sólida",
+        "sabor": "salgada",
+        "pais": "Paraguai"
+    },
+    {
+        "comidaOuBebida": "Pisco",
+        "sabor": "não sei",
+        "pais": "Peru"
+    },
+    {
+        "comidaOuBebida": "Sopa de mudongo",
+        "sabor": "salgada",
+        "pais": "Peru"
+    },
+    {
+        "comidaOuBebida": "Chá mate",
+        "sabor": "amargo",
+        "pais": "Argentina"
+    },
+    {
+        "comidaOuBebida": "Bolo de rolo",
+        "sabor": "doce",
+        "pais": "Brasil - Pernambuco"
+    },
+    {
+        "comidaOuBebida": "Passaporte",
+        "sabor": "salgado",
+        "pais": "Brasil - Alagoas"
+    },
+    {
+        "comidaOuBebida": "Cachorro quente só com a salsicha e mostarda",
+        "sabor": "sem graça",
+        "pais": "Estados Unidos da América"
+    },
+    {
+        "comidaOuBebida": "Tacos",
+        "sabor": "salgado e picante",
+        "pais": "México"
+    }
+]

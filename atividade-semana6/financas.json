@@ -1,0 +1,52 @@
+[
+    {
+        "PagarOuComprar": "Manutenção Aparelho",
+        "categoriaDaAquisicao": "Saúde",
+        "extremaNecessidade": true
+    },
+    {
+        "PagarOuComprar": "Clareamento dentário",
+        "categoriaDaAquisicao": "Saúde",
+        "extremaNecessidade": false
+    },
+    {
+        "PagarOuComprar": "Produtos de higiene",
+        "categoriaDaAquisicao": "Saúde e bem estar",
+        "extremaNecessidade": true
+    },
+    {
+        "PagarOuComprar": "Carregar o VEM",
+        "categoriaDaAquisicao": "Transporte e locomoção",
+        "extremaNecessidade": true
+    },
+    {
+        "PagarOuComprar": "Internet",
+        "categoriaDaAquisicao": "Trabalho",
+        "extremaNecessidade": true
+    },
+    {
+        "PagarOuComprar": "Notebook e celular novo",
+        "categoriaDaAquisicao": "Trabalho",
+        "extremaNecessidade": true
+    },
+    {
+        "PagarOuComprar": "Violão",
+        "categoriaDaAquisicao": "Lazer e bem estar",
+        "extremaNecessidade": false
+    },
+    {
+        "PagarOuComprar": "Prateleira",
+        "categoriaDaAquisicao": "Organização e bem estar",
+        "extremaNecessidade": false
+    },
+    {
+        "PagarOuComprar": "Carro",
+        "categoriaDaAquisicao": "Locomoção e bem estar",
+        "extremaNecessidade": false
+    },
+    {
+        "PagarOuComprar": "Feira",
+        "categoriaDaAquisicao": "Alimentação",
+        "extremaNecessidade": true
+    }
+]
